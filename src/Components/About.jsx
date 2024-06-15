@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Computer Sciecne Engineering student studying at RIT. I enjoy creating user-friendly websites and applications aim to introduce innovative solutions that improve people’s lives.";
+  "I'm a Computer Sciecne Engineering student studied at RIT. I enjoy creating user-friendly websites and applications aim to introduce innovative solutions that improve people’s lives.";
 
 /**
  * List of some of skills or technologies you work on, are learning,

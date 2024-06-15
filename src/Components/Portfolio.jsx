@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Hospo",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Hospo is an hospital Appointment Schedular Web app developed using Reactjs as frontend nodejs as backend",
+    url: "https://hospo-okn5162l1-arunar1.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "PolitiScan",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "PolitiScan is Machine learning based political leader reviewing based on their project in respective constituency Developed using React-Native and nodejs.",
+    url: "https://github.com/arunar1/politiscan-mobile-app",
   },
   {
-    title: "My Resume Site",
+    title: "Recipe-App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Recipe-App is a e-commerce food purchasing app developed using reactjs",
+    url: "https://recipe-lemon-nu.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "BattleShip Game",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "It is a simple game developed using basic html,css and javascript",
+    url: "https://arunar1.github.io/BattleShip/",
   },
 ];
 
